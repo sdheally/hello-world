@@ -1,5 +1,5 @@
 # hello-world
-Repo repository
+First Repository
 
 This is my first repository on GitHub.
-I am learning to script and will use GitHub for my samples and examples.
+I am learning to script and will use GitHub for practice and examples.
